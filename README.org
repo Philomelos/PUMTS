@@ -1,4 +1,4 @@
-*PUMTS* — Philomelos Unofficial MusicXML Test Suite
+* PUMTS — Philomelos Unofficial MusicXML Test Suite
 
 * What's this?
 PUMTS is a collection of sample MusicXML test cases that are intended to be used to test the MusicXML import of music notation software.
