@@ -1,0 +1,17 @@
+*PUMTS* — Philomelos Unofficial MusicXML Test Suite
+
+* What's this?
+PUMTS is a collection of sample MusicXML test cases that are intended to be used to test the MusicXML import of music notation software.
+
+* Why another MusicXML test suite?
+There is no official test suite of MusicXML files available for testing purposes.  At http://www.lilypond.org/doc/v2.19/input/regression/musicxml/collated-files.html most MusicXML elements and attributes are documented — sometimes even with a picture —  but no test files are provided.
+
+There is one unofficial MusicXML test suite at http://www.lilypond.org/doc/v2.19/input/regression/musicxml/collated-files.html but it's not complete.  While it addresses quite a few aspects of music notation it doesn't follow a systematic approach with regards to the MusicXML elements, attributes and their values. 
+
+PUMTS aims at filling this gap. Each test file addresses only one MusicXML element and — if possible — all its values.  Whenever possible an image and/or sound file is provided to illustrate the musical function of an element.  This is not always possible as no music notation application currently supports all MusicXML elements.
+
+* License
+This collection of MusicXML test files is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  See http://creativecommons.org/licenses/by-sa/4.0/.
+
+* Help!?
+You'd like to help to make this project happen? You're welcome!
