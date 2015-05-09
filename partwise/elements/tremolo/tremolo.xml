@@ -1140,6 +1140,22 @@
         <voice>1</voice>
         <type>16th</type>
       </note>
+    </measure>
+    <measure number="17">
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>128</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <notations>
+          <ornaments>
+            <tremolo type="single">0</tremolo>
+          </ornaments>
+        </notations>
+      </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
       </barline>
